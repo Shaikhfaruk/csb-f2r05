@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shaikhfaruk.github.io/csb-f2r05/static/css/main.ba034808.chunk.css",
+    "main.js": "https://shaikhfaruk.github.io/csb-f2r05/static/js/main.9b62f759.chunk.js",
+    "main.js.map": "https://shaikhfaruk.github.io/csb-f2r05/static/js/main.9b62f759.chunk.js.map",
+    "runtime-main.js": "https://shaikhfaruk.github.io/csb-f2r05/static/js/runtime-main.bd3b2da6.js",
+    "runtime-main.js.map": "https://shaikhfaruk.github.io/csb-f2r05/static/js/runtime-main.bd3b2da6.js.map",
+    "static/js/2.8d615d6d.chunk.js": "https://shaikhfaruk.github.io/csb-f2r05/static/js/2.8d615d6d.chunk.js",
+    "static/js/2.8d615d6d.chunk.js.map": "https://shaikhfaruk.github.io/csb-f2r05/static/js/2.8d615d6d.chunk.js.map",
+    "index.html": "https://shaikhfaruk.github.io/csb-f2r05/index.html",
+    "static/css/main.ba034808.chunk.css.map": "https://shaikhfaruk.github.io/csb-f2r05/static/css/main.ba034808.chunk.css.map",
+    "static/js/2.8d615d6d.chunk.js.LICENSE.txt": "https://shaikhfaruk.github.io/csb-f2r05/static/js/2.8d615d6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd3b2da6.js",
+    "static/js/2.8d615d6d.chunk.js",
+    "static/css/main.ba034808.chunk.css",
+    "static/js/main.9b62f759.chunk.js"
+  ]
+}
